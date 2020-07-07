@@ -1,6 +1,6 @@
 # XML Endpoint parallel hitter
 ## Description
-A Little tool that I developed in a project where I needed to hit an endpoint 'n' times in parallel and save de response from the endpoint in a DB.
+A Little tool that I developed in a project where I needed to hit an endpoint 'n' times in parallel and save the response from the endpoint in a DB.
 
 
 ## Languagues & Tools
